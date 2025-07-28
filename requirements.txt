@@ -4,4 +4,3 @@ playwright
 openai>=1.0.0
 pytz
 python-multipart
-difflib
