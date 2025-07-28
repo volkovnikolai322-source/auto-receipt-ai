@@ -1,6 +1,7 @@
 fastapi
-uvicorn
+uvicorn[standard]
 playwright
-openai
+openai>=1.0.0
 pytz
 python-multipart
+difflib
